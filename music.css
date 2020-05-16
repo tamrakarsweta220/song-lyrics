@@ -1,0 +1,36 @@
+#heading{
+    text-align: center;
+}
+body{
+    background-image: url("https://media.istockphoto.com/photos/pastel-light-purple-pink-tone-water-color-paper-texture-background-picture-id1162453185?k=6&m=1162453185&s=170667a&w=0&h=41Yhm3afbPUkjUofVOWYO7BwKVB_FdtES-4Ow3cVVfg=");    
+}
+#icon{
+    width: 100%;
+    height: 40%;
+}
+#searchButton{
+    color: white;
+    border: 3px solid black;
+    border-radius: 15px;
+    border-style: double;
+    background-color: #a279c9;
+    width: 100px;
+    height: 40px;
+    font-size: 20px;
+}
+#artist{
+    width: 40%;
+    padding: 12px 15px;
+}
+#songtitle{
+    width: 40%;
+    padding: 12px 15px;
+}
+.search{
+   /* position: relative;
+   left: 50%; */
+   text-align: center;
+}
+.footer{
+    text-align: center;
+}
