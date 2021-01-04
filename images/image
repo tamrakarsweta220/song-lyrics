@@ -1,0 +1,8 @@
+Six screenshots available:
+
+1. find your lyrics - the original layout of the page
+2. find your lyrics BTS - the layout of the page after the user gives us some input (artist name: BTS, song: dynamite)
+3. BTS dynamite lyrics screenshot - the output of the first half of the program where the page returns the lyrics of the song "dynamite"
+4. BTS summary screenshot - the output of the second half of the program where the page returns the summary of the artist "BTS"
+5. last.fm BTS screenshot - the summary of the artist includes a link to last.fm where you can find more information about the artist; takes you to the new website and displays information on "BTS"
+6. spotify screenshot - a link to spotify.com is attached at the end of the page
